@@ -1,0 +1,7 @@
+POST http://localhost:3005/
+Content-Type: application/json
+
+{
+  "orderNo": 10100,
+  "name": "Lotfulla"
+}
